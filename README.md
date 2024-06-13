@@ -1,4 +1,4 @@
-# Mi libro de recetas.
+# Mi libro de recetas..
 
 Receta: Hamburguesa 
 
